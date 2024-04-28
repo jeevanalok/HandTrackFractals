@@ -1,10 +1,12 @@
 # Fractal Trees Visualization
 
-This Python script generates fractal trees using the Pygame library. Fractal trees are a fascinating mathematical concept that demonstrates self-similar patterns found in nature, such as tree branches or blood vessels.
+This Python script generates fractal trees using Pygame while allowing interaction with hand gestures using the MediaPipe library for hand tracking.
 
 ## Requirements
 - Python 3.11.x
-- Pygame library
+- Pygame 
+- OpenCV (cv2)
+- MediaPipe
 
 ## Usage
 1. Make sure you have Python installed on your system.
