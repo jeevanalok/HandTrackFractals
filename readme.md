@@ -24,7 +24,7 @@ Move your mouse horizontally to see fractal trees at different angles
 
 ## TODOS
 - [x] add mouse tracking feature
-- [] add handtracking feature
+- [ ] add handtracking feature
 
 
 ## Credits
