@@ -23,7 +23,8 @@ This Python script generates fractal trees using the Pygame library. Fractal tre
 Move your mouse horizontally to see fractal trees at different angles
 
 ## TODOS
-[] - add handtracking feature
+- [x] add mouse tracking feature
+- [] add handtracking feature
 
 
 ## Credits
