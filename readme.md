@@ -39,6 +39,10 @@ Move your mouse horizontally to see fractal trees at different angles
 - [x] add handtracking feature
 - [ ] refine further
 
+## Demo
+https://github.com/jeevanalok/HandTrackFractals/assets/40180496/f971c30f-400d-4cd7-8163-436a24b1319e
+
+
 
 ## Credits
 - This script was created by jeevanalok for educational purposes.
